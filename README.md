@@ -31,3 +31,6 @@ cd simplePhonebook_using_ICP
 
 ## Usage
 After setting up the project, you can use the web interface to add, edit, delete, and view contacts in the phonebook. All changes are stored on the Internet Computer, ensuring data persistence and security.
+![Flow](image.png)
+![Dashboard: http://localhost:34793/_/dashboard](image-1.png)
+<video controls src="20240306-1301-56.0876156.mp4" title="Demo Work Flow"></video>
