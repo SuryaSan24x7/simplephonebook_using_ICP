@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed:
 ### Clone the Repository
 First, clone the project repository to your local machine:
 ```sh
-git clone https://github.com/yourusername/simplePhonebook_using_ICP.git
+git clone https://github.com/SuryaSan24x7/simplePhonebook_using_ICP.git
 cd simplePhonebook_using_ICP
 ```
 
