@@ -34,3 +34,9 @@ After setting up the project, you can use the web interface to add, edit, delete
 ![Flow](image.png)
 ![Dashboard: http://localhost:34793/_/dashboard](image-1.png)
 <video controls src="20240306-1301-56.0876156.mp4" title="Demo Work Flow"></video>
+
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
